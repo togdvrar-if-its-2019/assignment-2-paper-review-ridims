@@ -44,11 +44,16 @@ Do students who play digital science games and then engage in discussions that m
 
 ## Methods
 
+
 ## Findings
 
+
 ## Discussion
+Researcher who studied the use of digital games for educational have found that game can be a effective tool for support students learning.
+But researcher who focus on the use of digital games in real world have observed that teacher need strategies to fully use the benefit of using game as tool for support students learning. Although indeed games can provide enganging experience, positive learning comes rely from good instructions and good instructions come from how much the teacher understand the game.
 
-## Funding
+Though many studies focuses more on game design when designing digital games for education, studies that looked on teacher's practice found that student have positive outcomes when teacher use "bridging activities", in which teacher have discussion about the game and have deep understanding about the digital game they use.
 
+Similarly this study also found that students whose teacher use bridging activities while playing digital game show more positive outcomes compared to the students play the similar digital game but the teacher did not do bridging activities. The finding from this study suggest that using instructional techniques holds promise as an approach to integrating digital games into instructions.
 
-
+The limitations of this study is particulary the small sample size, self-selection into the study and lack of randomized assignemnt prevent them from making any causal claims about the techniques.
