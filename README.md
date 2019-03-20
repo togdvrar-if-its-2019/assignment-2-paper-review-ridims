@@ -43,10 +43,20 @@ In this study, a pedagogical approach called analogy mapping are explored. The u
 Do students who play digital science games and then engage in discussions that map analogies from the games to the concepts they address demonstrate greater understanding of those concepts than students who play the games but do not engage in those discussions?
 
 ## Methods
+In this research they created instructional sequences on topics included in the Next Generation Science Standards for middle-school science—photosynthesis, heat transfer, and electricity—that address the crosscutting concept of energy transfer. Each of the sequences included a digital game based on the one of the three topics. Each game was designed to have images and actions that are analogous to the target science concepts.
+In this study, they also designed treatment and comparison interventions that were very similar, except that the treatment condition used analogy mapping techniques while the comparison condition used an alternate set of instructional techniques.
 
+![Tabel 1](ss_tabel1.png)
+
+The study sample consisted of 11 middle-grade science teachers from three low-income urban school districts in the Northeast United States and 231 of their sixth and seventh-grade students. One goal of this study was to develop and test an intervention that would be usable and that would improve learning for underserved students in low-income schools.
 
 ## Findings
+The results suggest that teachers and students in the treatment group made six times as many references to analogies during instruction as did students and teachers in the comparison group. Treatment teachers made references to analogies a mean of 40.8 times across the three analogy mapping classes, compared to a mean of 7.0 times in comparison classrooms.
 
+Most (72.2%) of the treatment teachers’ analogy references focused on the digital games and their relationship with the target concepts. In contrast, the comparison teachers and students more commonly used other sources for their analogies, mostly from outside the domain of science, while just 22.9% of their references to analogies related to the digital games.
+
+The results suggest that students in the treatment group learned more than did those in the comparison group, as evidenced by multiple-choice
+assessments. Specifcally, students in the treatment group learned more energy and electricity concepts.
 
 ## Discussion
 Researcher who studied the use of digital games for educational have found that game can be a effective tool for support students learning.
